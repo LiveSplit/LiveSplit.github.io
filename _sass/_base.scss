@@ -1,0 +1,164 @@
+html {
+    background-image: url(../images/diagonal-stripes.png);
+    background-repeat: repeat;
+    background-color: black;
+}
+
+body {
+    background-color: transparent;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Trebuchet, arial, sans-serif;
+}
+
+a {
+    color: $link-color;
+    text-decoration: underline;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.banner>a>img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-align-center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fork-me>a {
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.content,
+.sidebar {
+    background-color: $content-background-color;
+    color: $text-color;
+    border-radius: 10px;
+    padding: 15px 15px 0px 15px;
+    float: left;
+    width: 50%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.content {
+    width: 670px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.sidebar {
+    width: 300px;
+}
+
+.title,
+.sidebar-title {
+    background-color: $title-background-color;
+    margin: -15px -15px 10px -15px;
+    border-radius: 10px 10px 0px 0px;
+    border-bottom-style: dotted;
+    border-bottom-width:  1px;
+    border-bottom-color: $border-color;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.title {
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+}
+
+.sidebar-title {
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+.container-fluid {
+    background: linear-gradient(#272727, #070707);
+    padding: 7px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.container-fluid,
+.content,
+.sidebar {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #444444;
+    border-width: 1px;
+}
+
+.nav-pills>li {
+    margin-right: 5px;
+}
+
+.nav-pills>li>a {
+    color: $link-color;
+    text-decoration: none;
+}
+
+.nav-pills>li>a:hover,
+.nav-pills>li>a:focus{
+    background-color: #272727;
+    color: white;
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus {
+    background-color: #353535;
+    color: white;
+    font-weight: bold;
+}
+
+.twitter-timeline {
+    margin-bottom: -15px;
+}
+
+.donations>img {
+    margin-bottom: 10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.site-footer {
+    color: #777;
+    clear: both;
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    padding-top: 30px;
+    margin-bottom: 45px;
+}
+
+.twitter-icon,
+.twitter-icon:hover {
+    text-decoration: none;
+}
+
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $text-color;
+        }
+    }
+}

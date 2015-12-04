@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="fork-me">
+    <a href="https://github.com/LiveSplit/LiveSplit"><img src="{{ site.imagesurl }}/forkme.png"></a>
+  </div>
+  <div class="banner">
+    <a href="index.html"><img src="{{ site.imagesurl }}/banner.png"></a>
+  </div>
+  <div class="container-fluid">
+    <ul class="nav nav-pills">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+          {% if my_page.title == page.title %}
+            <li role="presentation" class="active">
+          {% else %}
+            <li role="presentation">
+          {% endif %}
+          <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</header>
