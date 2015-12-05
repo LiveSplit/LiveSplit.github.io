@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads
-permalink: /downloads
+permalink: /downloads/
 order: 2
 ---
 ### [LiveSplit 1.6](https://github.com/LiveSplit/LiveSplit/releases/download/1.6.8/LiveSplit_1.6.8.zip)

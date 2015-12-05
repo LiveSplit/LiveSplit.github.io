@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq
+permalink: /faq/
 order: 4
 ---
 **Q: How do I develop an Auto Splitter?**  

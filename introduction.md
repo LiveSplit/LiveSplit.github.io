@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-permalink: /introduction
+permalink: /introduction/
 order: 3
 ---
 If you’re new to LiveSplit, you should watch this video created by [CloakedYoshi](https://twitter.com/cloakedyoshi) and read through the [FAQ]({{ site.baseurl }}/faq).
