@@ -107,6 +107,7 @@ p {
 .nav-pills>li>a {
     color: $link-color;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .nav-pills>li>a:hover,
