@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LiveSplit
+permalink: /
 order: 1
 ---
 LiveSplit is a timer program for speedrunners that is both easy to use and full of features.
