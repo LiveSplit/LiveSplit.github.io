@@ -3,11 +3,12 @@
     <a href="https://github.com/LiveSplit/LiveSplit"><img src="{{ site.imagesurl }}/forkme.png"></a>
   </div>
   <div class="banner">
-    <a href="index.html"><img src="{{ site.imagesurl }}/banner.png"></a>
+    <a href="{{ site.baseurl }}/"><img src="{{ site.imagesurl }}/banner.png"></a>
   </div>
   <div class="container-fluid">
     <ul class="nav nav-pills">
-      {% for my_page in site.pages %}
+      {% assign sorted_pages = (site.pages | sort: 'order') %}
+      {% for my_page in sorted_pages %}
         {% if my_page.title %}
           {% if my_page.title == page.title %}
             <li role="presentation" class="active">
