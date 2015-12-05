@@ -6,7 +6,7 @@ order: 2
 ---
 ### [LiveSplit 1.6](https://github.com/LiveSplit/LiveSplit/releases/download/1.6.8/LiveSplit_1.6.8.zip)
 
-We strongly recommend that you read through the FAQ and watch the Introduction Video before using LiveSplit for the first time.
+We strongly recommend that you read through the [FAQ]({{ site.baseurl }}/faq) and watch the [Introduction Video]({{ site.baseurl }}/introduction) before using LiveSplit for the first time.
 
 ### [LiveSplit Development Build](http://livesplit.org/LiveSplitDevBuild.zip)
 
