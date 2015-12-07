@@ -163,3 +163,11 @@ p {
         }
     }
 }
+
+.table>tbody>tr:hover {
+    background-color: $title-background-color;
+}
+
+.table>thead>tr>th {
+    border-bottom-width: 1px;
+}

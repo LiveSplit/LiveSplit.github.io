@@ -10,7 +10,7 @@ If you need any further help, feel free to contact {% include icon-twitter.html 
 
 **Q: Is there a way to report bugs?**  
 A: If you find a bug in LiveSplit, simply contact {% include icon-twitter.html username=site.wooferzfg_username %} or {% include icon-twitter.html username=site.cryze_username %} on Twitter.
-You can also go to the [LiveSplit Issues](https://github.com/LiveSplit/LiveSplit/issues) page and make a new issue.FA
+You can also go to the [LiveSplit Issues](https://github.com/LiveSplit/LiveSplit/issues) page and make a new issue.
 
 **Q: Is LiveSplit open source?**  
 A: LiveSplit is open source and can be found on [GitHub](https://github.com/LiveSplit/LiveSplit).
