@@ -18,4 +18,4 @@ wooferzfg_username: wooferzfg
 
 # Build settings
 markdown: kramdown
-exclude: [vendor]
+exclude: [vendor, cibuild.sh, Gemfile, Gemfile.lock, LICENSE]
