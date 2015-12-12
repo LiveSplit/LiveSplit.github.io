@@ -18,3 +18,4 @@ wooferzfg_username: wooferzfg
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
