@@ -12,7 +12,7 @@ Based on your feedback, we’ll prioritize what we’ll implement next.
 
 <script>
   function loadCampaignWidget() {
-    document.getElementById('ideascale-campaign-widget').innerHTML = '<iframe allowTransparency="true" src="//livesplit.ideascale.com/userimages/accounts/91/917613/campaign-widget-25948.html?ts=1449336867808" frameborder="0" scrolling="auto" style="width: 100%; height: 1000px;"></iframe>'
+    document.getElementById('ideascale-campaign-widget').innerHTML = '<iframe allowTransparency="true" src="//livesplit.ideascale.com/a/widget/super/campaign/5325?defaultTab=top" frameborder="0" scrolling="auto" style="width: 100%; height: 1000px;"></iframe>'
   }
 
   window.onload = loadCampaignWidget;//you may change this line
