@@ -4,7 +4,7 @@ title: Components
 permalink: /components/
 order: 5
 ---
-###Downloadable Components
+### Downloadable Components
 
 <table class="table">
 	<col style="width:30%">
@@ -47,7 +47,7 @@ order: 5
 	</tbody>
 </table>
 
-###Standard Components
+### Standard Components
 
 <table class="table">
 	<col style="width:30%">
