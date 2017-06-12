@@ -4,7 +4,7 @@ title: Downloads
 permalink: /downloads/
 order: 2
 ---
-### [LiveSplit 1.7.3](https://github.com/LiveSplit/LiveSplit/releases/download/1.7.3/LiveSplit_1.7.3.zip)
+### [LiveSplit 1.7.4](https://github.com/LiveSplit/LiveSplit/releases/download/1.7.4/LiveSplit_1.7.4.zip)
 
 We strongly recommend that you read through the [FAQ]({{ site.baseurl }}/faq) and watch the [Introduction Video]({{ site.baseurl }}/introduction) before using LiveSplit for the first time.
 
