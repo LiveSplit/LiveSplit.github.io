@@ -29,8 +29,8 @@ order: 5
 			<td>Displays a custom counter that can be controlled with hotkeys.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Dalet/LiveSplit.RunHighlighter/releases">Run Highlighter</a> by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
-			<td>Run Highlighter is a LiveSplit component that helps you highlight your runs.</td>
+			<td><a href="https://www.nightgamedev.com/sgl">Speed Guides Live</a> by <a href="https://twitter.com/inightfaller">iNightfaller</a></td>
+			<td>Allows you to create a guide for your speedrun with notes that are displayed for each individual segment.</td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Gyoo/LiveSplit.SplitsBet/releases">SplitsBet</a> by <a href="https://twitter.com/GyooRunsStuff">Gyoo</a></td>
@@ -93,15 +93,15 @@ order: 5
 		</tr>
 		<tr>
 			<td>Text</td>
-			<td>With this component you are able to show any text you want it to show. This is useful when you're streaming your run and want to show additional information like goal times, world records or any other information.</td>
+			<td>Displays customizable text. This is useful when you're streaming your run and want to show additional information like goal times, world records, or any other information.</td>
 		</tr>
 		<tr>
 			<td>Run Prediction</td>
-			<td>This component shows a predicted time for your current run based on a comparison that you choose.</td>
+			<td>Shows a predicted time for your current run based on a comparison that you choose.</td>
 		</tr>
 		<tr>
 			<td>Hotkey Indicator</td>
-			<td>This component is a separator that changes color depending on whether or not global hotkeys are enabled. It will show green when global hotkeys are enabled and red when they are disabled.</td>
+			<td>Displays a separator that changes color depending on whether or not global hotkeys are enabled. It will show green when global hotkeys are enabled and red when they are disabled.</td>
 		</tr>
 		<tr>
 			<td>Current Comparison</td>
