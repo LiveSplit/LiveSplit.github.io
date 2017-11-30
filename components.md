@@ -17,7 +17,7 @@ order: 5
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/fatalis/sourcesplit/releases">SourceSplit</a> by <a href="http://twitter.com/fatalis_">Fatalis</a></td>
+			<td><a href="https://github.com/fatalis/sourcesplit/releases">SourceSplit</a><br>by <a href="http://twitter.com/fatalis_">Fatalis</a></td>
 			<td>SourceSplit is a component that helps out Source engine speedrunning. It can automatically split for you when a map changes, and it keeps track of in-game time so you don't have to record demos. It works by reading the game's memory, and it should work on every Source engine game.</td>
 		</tr>
 		<tr>
@@ -25,23 +25,23 @@ order: 5
 			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/LiveSplit/LiveSplit.Counter/releases">Counter</a> by <a href="https://twitter.com/JayceAndTheNews">Chris</a></td>
+			<td><a href="https://github.com/LiveSplit/LiveSplit.Counter/releases">Counter</a><br>by <a href="https://twitter.com/JayceAndTheNews">Chris</a></td>
 			<td>Displays a custom counter that can be controlled with hotkeys.</td>
 		</tr>
 		<tr>
-			<td><a href="https://www.nightgamedev.com/sgl">Speed Guides Live</a> by <a href="https://twitter.com/inightfaller">iNightfaller</a></td>
+			<td><a href="https://www.nightgamedev.com/sgl">Speed Guides Live</a><br>by <a href="https://twitter.com/inightfaller">iNightfaller</a></td>
 			<td>Allows you to create a guide for your speedrun with notes that are displayed for each individual segment.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Gyoo/LiveSplit.SplitsBet/releases">SplitsBet</a> by <a href="https://twitter.com/GyooRunsStuff">Gyoo</a></td>
+			<td><a href="https://github.com/Gyoo/LiveSplit.SplitsBet/releases">SplitsBet</a><br>by <a href="https://twitter.com/GyooRunsStuff">Gyoo</a></td>
 			<td>Acts as a Twitch Bot that takes bets from viewers on what time the next split will be.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Dalet/LiveSplit.AlternateTimingMethod/releases">Alternate Timing Method</a> by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
+			<td><a href="https://github.com/Dalet/LiveSplit.AlternateTimingMethod/releases">Alternate Timing Method</a><br>by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
 			<td>Displays Real Time if the comparison is set to Game Time and vice versa.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Dalet/LiveSplit.FocusedHotkeys/releases">Focused Hotkeys</a> by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
+			<td><a href="https://github.com/Dalet/LiveSplit.FocusedHotkeys/releases">Focused Hotkeys</a><br>by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
 			<td>Enables Global Hotkeys only when specified programs have focus.</td>
 		</tr>
 	</tbody>
@@ -93,7 +93,7 @@ order: 5
 		</tr>
 		<tr>
 			<td>Text</td>
-			<td>Displays customizable text. This is useful when you're streaming your run and want to show additional information like goal times, world records, or any other information.</td>
+			<td>Displays customizable text. This is useful when you're streaming your run and want to show additional information such as goal times or world records.</td>
 		</tr>
 		<tr>
 			<td>Run Prediction</td>
