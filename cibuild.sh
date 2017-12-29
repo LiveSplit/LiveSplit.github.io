@@ -6,6 +6,7 @@ bundle exec htmlproofer ./_site
 
 if [ "$TRAVIS_BRANCH" = "master" ]; then
 	echo "Starting to upload..."
-	lftp -c "open -u livesplit@livesplit.org,$FTP_PASS ftp://livesplit.org; mirror -R -i .*$ '_site/' ."
+	cd _site
+	find . -type f -exec curl -u livesplit@livesplit.org:$FTP_PASS --ftp-create-dirs -T {} ftp://livesplit.org/{} \;
 	echo "Upload finished."
 fi
