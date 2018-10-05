@@ -2,7 +2,7 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site
+bundle exec htmlproofer --url-ignore "/maxcdn.bootstrapcdn.com/" ./_site
 
 if [ "$TRAVIS_BRANCH" = "master" ]; then
 	echo "Starting to upload..."
