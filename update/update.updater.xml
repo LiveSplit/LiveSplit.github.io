@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="2.0.1">
+		<files>
+			<file path="UpdateManager.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Updated to use C#6.</change>
+		</changelog>
+	</update>
+	<update version="2.0">
+		<files>
+			<file path="UpdateManager.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Components that don't update no longer prevent other updates.</change>
+		</changelog>
+	</update>
+	<update version="0.1">
+		<files>
+			<file path="UpdateManager.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Initial build</change>
+		</changelog>
+	</update>
+</updates>

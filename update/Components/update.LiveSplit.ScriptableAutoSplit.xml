@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.7.5">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.5.</change>
+		</changelog>
+	</update>
+	<update version="1.7">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.</change>
+		</changelog>
+	</update>
+	<update version="1.6.9">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added settings capability. (Thanks @tduva_)</change>
+			<change>Some new advanced features are now supported in scripts.</change>
+			<change>Fixed various minor issues.</change>
+		</changelog>
+	</update>
+	<update version="1.6.3">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.6.3.</change>
+		</changelog>
+	</update>
+	<update version="1.6.1">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Changing a Script's Refresh Rate is now supported.</change>
+			<change>Game Time is now initialized even if the user starts the run manually.</change>
+		</changelog>
+	</update>
+	<update version="1.6">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Scripts now update at 60 Hz instead of 40 Hz.</change>
+			<change>Some new advanced features are now supported in scripts.</change>
+		</changelog>
+	</update>
+	<update version="1.1.2">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>ASL Scripts should now work again without crashing.</change>
+		</changelog>
+	</update>
+	<update version="1.1.1">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed a bug that caused a crash.</change>
+		</changelog>
+	</update>
+	<update version="1.1.0">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.5.</change>
+		</changelog>
+	</update>
+</updates>

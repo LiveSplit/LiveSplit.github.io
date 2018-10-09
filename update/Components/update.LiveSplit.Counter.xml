@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.7.2">
+		<files>
+			<file path="Components/LiveSplit.Counter.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.2.</change>
+		</changelog>
+	</update>
+	<update version="1.7.1">
+		<files>
+			<file path="Components/LiveSplit.Counter.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.1.</change>
+		</changelog>
+	</update>
+</updates>

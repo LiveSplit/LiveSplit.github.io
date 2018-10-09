@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.7.5">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed several small bugs.</change>
+		</changelog>
+	</update>
+	<update version="1.7.4">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added an option to adjust the minimum number of sections before the current section.</change>
+		</changelog>
+	</update>
+	<update version="1.7.3">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>An issue with the Segment Time column has been fixed.</change>
+		</changelog>
+	</update>
+	<update version="1.7.2">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Columns can now be fully customized.</change>
+		</changelog>
+	</update>
+	<update version="1.7.1">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>A larger split height is now used when drawing two rows.</change>
+		</changelog>
+	</update>
+	<update version="1.7">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.</change>
+		</changelog>
+	</update>
+	<update version="1.6.3">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.6.3.</change>
+		</changelog>
+	</update>
+	<update version="1.6">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Using a section name that is different from the name of the last split is now supported.</change>
+			<change>There is now an option to hide icons for the last split of a section.</change>
+		</changelog>
+	</update>
+	<update version="1.5.2">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed a bug with radio buttons in the settings.</change>
+		</changelog>
+	</update>
+	<update version="1.5.1">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.5.1.</change>
+		</changelog>
+	</update>
+	<update version="1.5.0">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.5.</change>
+		</changelog>
+	</update>
+	<update version="1.4.1">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Alternating colors are based on the section number instead of the split number.</change>
+			<change>Added customizations for the appearance of subsplits.</change>
+			<change>Added options to hide all subsplits, show all subsplits, or show only current section.</change>
+			<change>Added Section Header which is a special split above the current section that can show the section icon, name, time, and timer.</change>
+			<change>Addition minor bug fixes and improvements.</change>
+			<change>For details, see http://bombch.us/sDA.</change>
+		</changelog>
+	</update>
+</updates>

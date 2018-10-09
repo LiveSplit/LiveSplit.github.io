@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.7.5">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>The finished runs count now increases at the end of the run rather than after updating splits.</change>
+		</changelog>
+	</update>
+	<update version="1.7.2">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>There are now options to hide the Game Name or Category Name.</change>
+		</changelog>
+	</update>
+	<update version="1.7.1">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.1.</change>
+		</changelog>
+	</update>
+	<update version="1.6.3">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.6.3.</change>
+		</changelog>
+	</update>
+	<update version="1.6.1">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed a bug with Category Name abbreviations.</change>
+		</changelog>
+	</update>
+	<update version="1.6">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Game titles are now automatically abbreviated if they do not fit.</change>
+			<change>There is now an option to display the Game and Category in a single line.</change>
+			<change>The Region, Platform, and Variables can be displayed as a part of the category.</change>
+		</changelog>
+	</update>
+	<update version="1.5.2">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Changed option to "Always Center Text".</change>
+		</changelog>
+	</update>
+	<update version="1.5.1">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added an option to center title text even with Game Icon.</change>
+		</changelog>
+	</update>
+	<update version="1.5.0">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added an option to display the number of Finished Runs.</change>
+		</changelog>
+	</update>
+    <update version="1.4.1">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>The Title now has a gradient background by default.</change>
+		</changelog>
+	</update>
+	<update version="1.4.0">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.4.</change>
+		</changelog>
+	</update>
+	<update version="1.3.10">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.3.11.</change>
+		</changelog>
+	</update>
+	<update version="1.3.9">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.3.10.</change>
+		</changelog>
+	</update>
+	<update version="1.3">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>You can now change the text color.</change>
+		</changelog>
+	</update>
+	<update version="1.2">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Made Title more compact.</change>
+			<change>Added an option to use a separate font.</change>
+		</changelog>
+	</update>
+	<update version="1.1">
+		<files>
+			<file path="Components/LiveSplit.Title.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Supports different font sizes now.</change>
+			<change>Supports turning off drop shadows now.</change>
+		</changelog>
+	</update>
+</updates>
