@@ -6,6 +6,8 @@ order: 2
 ---
 ### [LiveSplit 1.7.7](https://github.com/LiveSplit/LiveSplit/releases/download/1.7.7/LiveSplit_1.7.7.zip)
 
+<div id="download-count"></div>
+
 We strongly recommend that you read through the [FAQ]({{ site.baseurl }}/faq) and watch the [Introduction Video]({{ site.baseurl }}/introduction) before using LiveSplit for the first time.
 
 ### [LiveSplit Development Build](https://raw.githubusercontent.com/LiveSplit/LiveSplit.github.io/artifacts/LiveSplitDevBuild.zip)
@@ -14,3 +16,5 @@ The Development Build is released with every new change on [GitHub](https://gith
 However, this build may be less stable and have some bugs as a result.
 
 In order to keep your settings from previous versions, copy the settings.cfg file from your old LiveSplit folder into the new one.
+
+<script>{% include download-count.js %}</script>
