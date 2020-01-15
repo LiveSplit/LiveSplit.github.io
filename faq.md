@@ -6,13 +6,13 @@ order: 4
 ---
 **Q: How do I develop an Auto Splitter?**  
 A: The [Auto Splitter Documentation](https://github.com/LiveSplit/LiveSplit/blob/master/Documentation/Auto-Splitters.md) is a very useful resource and guide for developing Auto Splitter components and ASL scripts.
-If you need any further help, feel free to contact {% include icon-twitter.html username=site.cryze_username %} or {% include icon-twitter.html username=site.wooferzfg_username %} on Twitter.
+If you need any further help, feel free to join the [Speedrun Tool Development Discord server](https://discord.gg/N6wv8pW).
 
 **Q: Is there a way to report bugs?**  
 A: If you find a bug in LiveSplit, feel free to contact {% include icon-twitter.html username=site.cryze_username %} or {% include icon-twitter.html username=site.wooferzfg_username %} on Twitter.
 You can also go to the [LiveSplit Issues](https://github.com/LiveSplit/LiveSplit/issues) page and make a new issue.
 
-**Q: Is there a way to submit ideas?**
+**Q: Is there a way to submit ideas?**  
 A: If you have an idea or suggestion for a new LiveSplit feature, feel free to contact {% include icon-twitter.html username=site.cryze_username %} or {% include icon-twitter.html username=site.wooferzfg_username %} on Twitter. We will often prioritize what we implement next based on your feedback.
 
 **Q: Is LiveSplit open source?**  
