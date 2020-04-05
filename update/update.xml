@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.0">
+    <files>
+			<file path="Codaxy.Xlio.XmlSerializers.dll" status="changed" />
+			<file path="Codaxy.Xlio.dll" status="changed" />
+			<file path="CustomFontDialog.dll" status="changed" />
+			<file path="LiveSplit.Core.dll" status="changed" />
+			<file path="LiveSplit.Core.dll.config" status="changed" />
+			<file path="LiveSplit.Plugin.dll" status="changed" />
+			<file path="LiveSplit.Plugin.dll.config" status="changed" />
+			<file path="LiveSplit.Register.exe" status="changed" />
+			<file path="LiveSplit.Register.exe.config" status="changed" />
+			<file path="LiveSplit.View.dll" status="changed" />
+			<file path="LiveSplit.exe" status="changed" />
+			<file path="LiveSplit.exe.config" status="changed" />
+			<file path="SpeedrunComSharp.dll" status="changed" />
+			<file path="x64/livesplit_core.dll" status="added" />
+			<file path="x86/livesplit_core.dll" status="added" />
+    </files>
+    <changelog>
+			<change>LiveSplit now starts faster because gamepads are loaded in the background on startup.</change>
+			<change>You can now have multiple Hotkey Profiles in the Settings.</change>
+			<change>You can now hold shift while resizing to maintain a consistent aspect ratio.</change>
+			<change>There is now an option in the Layout Settings to ignore the mouse while the timer is running and the window is not in focus.</change>
+			<change>You can now set the same icon for multiple splits at the same time.</change>
+			<change>Splits are now parsed with the livesplit-core library.</change>
+			<change>Credentials are now stored with the Windows Credentials API.</change>
+    </changelog>
+  </update>
 	<update version="1.7.7">
     <files>
 			<file path="Codaxy.Xlio.XmlSerializers.dll" status="changed" />

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.0">
+		<files>
+			<file path="Components/LiveSplit.Sound.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.8.0.</change>
+		</changelog>
+	</update>
 	<update version="1.7.7">
 		<files>
 			<file path="Components/LiveSplit.Sound.dll" status="changed" />
