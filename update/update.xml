@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.4">
+    <files>
+			<file path="LiveSplit.Core.dll" status="changed" />
+			<file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+			<change>Fixed the Settings dialog always selecting the first hotkey input.</change>
+    </changelog>
+  </update>
 	<update version="1.8.3">
     <files>
 			<file path="LiveSplit.Core.dll" status="changed" />
