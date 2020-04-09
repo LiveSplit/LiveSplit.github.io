@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-	<update version="1.8.1">
+	<update version="1.8.2">
     <files>
 			<file path="LiveSplit.Core.dll" status="changed" />
 			<file path="LiveSplit.View.dll" status="changed" />
-			<file path="LiveSplit.exe" status="changed" />
-			<file path="x64/livesplit_core.dll" status="changed" />
-			<file path="x86/livesplit_core.dll" status="changed" />
+    </files>
+    <changelog>
+			<change>Fixed an issue with the auto updater not working if the update was performed too soon.</change>
+    </changelog>
+  </update>
+	<update version="1.8.1">
+    <files>
+			<file path="LiveSplit.Core.dll" status="changed" />
     </files>
     <changelog>
 			<change>Fixed an issue with opening some splits files.</change>
