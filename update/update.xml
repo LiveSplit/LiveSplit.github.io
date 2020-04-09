@@ -4,6 +4,7 @@
     <files>
 			<file path="LiveSplit.Core.dll" status="changed" />
 			<file path="LiveSplit.View.dll" status="changed" />
+			<file path="Components/Irony.dll" status="changed" />
     </files>
     <changelog>
 			<change>Fixed an issue with the auto updater not working if the update was performed too soon.</change>
