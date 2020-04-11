@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.7">
+    <files>
+			<file path="LiveSplit.Core.dll" status="changed" />
+			<file path="LiveSplit.View.dll" status="changed" />
+			<file path="x64/livesplit_core.dll" status="changed" />
+			<file path="x86/livesplit_core.dll" status="changed" />
+    </files>
+    <changelog>
+			<change>Fixed an issue with animated GIFs no longer animating.</change>
+			<change>Changed the way that the livesplit-core library is built, which may help with compatibility for some users.</change>
+    </changelog>
+  </update>
 	<update version="1.8.6">
     <files>
 			<file path="LiveSplit.Core.dll" status="changed" />
