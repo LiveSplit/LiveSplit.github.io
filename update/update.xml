@@ -5,6 +5,7 @@
       <file path="LiveSplit.Core.dll" status="changed" />
       <file path="LiveSplit.View.dll" status="changed" />
       <file path="LiveSplit.exe" status="changed" />
+      <file path="Components/DarkUI.dll" status="added" />
       <file path="Components/LiveSplit.Racetime.dll" status="added" />
     </files>
     <changelog>
