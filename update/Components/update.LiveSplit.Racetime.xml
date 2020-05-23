@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.8.9">
+		<files>
+			<file path="Components/LiveSplit.Racetime.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Test update.</change>
+		</changelog>
+	</update>
+</updates>
