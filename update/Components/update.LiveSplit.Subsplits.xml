@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.9">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed an issue with the header not updating after a reset sometimes.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />

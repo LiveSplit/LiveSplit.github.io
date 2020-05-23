@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.9">
+		<files>
+			<file path="Components/LiveSplit.ManualGameTime.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed the component making a sound every time that a time is submitted.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.ManualGameTime.dll" status="changed" />

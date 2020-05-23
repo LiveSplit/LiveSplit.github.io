@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.9">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="LiveSplit.exe" status="changed" />
+      <file path="LiveSplit.Register.exe" status="changed" />
+      <file path="Components/LiveSplit.Racetime.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Fixed some issues with the racetime.gg integration.</change>
+      <change>Fixed issues with sharing a run to Twitch.</change>
+    </changelog>
+  </update>
   <update version="1.8.8">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
