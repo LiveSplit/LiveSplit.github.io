@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.10">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Gamepads are now polled on a separate thread, which could potentially avoid some issues with LiveSplit freezing.</change>
+    </changelog>
+  </update>
   <update version="1.8.9">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

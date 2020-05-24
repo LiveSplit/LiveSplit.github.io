@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.10">
+		<files>
+			<file path="Components/LiveSplit.Racetime.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed an issue with the timer starting before the race countdown has completed.</change>
+		</changelog>
+	</update>
 </updates>
