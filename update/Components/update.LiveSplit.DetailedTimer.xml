@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.11">
+		<files>
+			<file path="Components/LiveSplit.DetailedTimer.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with Subsplits.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.DetailedTimer.dll" status="changed" />

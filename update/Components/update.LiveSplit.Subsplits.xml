@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.11">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed an issue with the header affecting the width of the layout in horizontal mode.</change>
+		</changelog>
+	</update>
 	<update version="1.8.10">
 		<files>
 			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />

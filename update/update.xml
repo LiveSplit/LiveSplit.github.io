@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.11">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>DeepPointer now supports specifying 64-bit or 32-bit offsets.</change>
+    </changelog>
+  </update>
   <update version="1.8.10">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
