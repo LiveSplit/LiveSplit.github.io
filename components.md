@@ -33,10 +33,6 @@ order: 5
 			<td>Allows you to create a guide for your speedrun with notes that are displayed for each individual segment.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Gyoo/LiveSplit.SplitsBet/releases">SplitsBet</a><br>by <a href="https://twitter.com/GyooRunsStuff">Gyoo</a></td>
-			<td>Acts as a Twitch Bot that takes bets from viewers on what time the next split will be.</td>
-		</tr>
-		<tr>
 			<td><a href="https://github.com/Dalet/LiveSplit.AlternateTimingMethod/releases">Alternate Timing Method</a><br>by <a href="https://twitter.com/Dalleth_">Dalet</a></td>
 			<td>Displays Real Time if the comparison is set to Game Time and vice versa.</td>
 		</tr>
