@@ -10,11 +10,11 @@ order: 2
 
 We strongly recommend that you read through the [FAQ]({{ site.baseurl }}/faq) and watch the [Introduction Video]({{ site.baseurl }}/introduction) before using LiveSplit for the first time.
 
+In order to keep your settings from previous versions, copy the settings.cfg file from your old LiveSplit folder into the new one.  
+
 ### [LiveSplit Development Build](https://raw.githubusercontent.com/LiveSplit/LiveSplit.github.io/artifacts/LiveSplitDevBuild.zip)
 
 The Development Build is released with every new change on [GitHub](https://github.com/LiveSplit/LiveSplit) and has all of the latest features and improvements to LiveSplit.
 However, this build may be less stable and have some bugs as a result.
-
-In order to keep your settings from previous versions, copy the settings.cfg file from your old LiveSplit folder into the new one.
 
 <script>{% include download-count.js %}</script>
