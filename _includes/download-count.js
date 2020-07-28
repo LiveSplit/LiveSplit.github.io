@@ -1,5 +1,3 @@
-
-
 var totalDownloads = 145928; // pre-GitHub download total
 
 var handleApiResponse = function() {
