@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.12">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Fixed the game name dropdown being shown when the Splits Editor opens.</change>
+      <change>Fixed unset variables not being displayed correctly in the category name of the Title component.</change>
+      <change>Fixed the region, platform, and variable dropdowns not reacting properly to the scroll wheel.</change>
+    </changelog>
+  </update>
   <update version="1.8.11">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
