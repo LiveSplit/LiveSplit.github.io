@@ -1,6 +1,6 @@
 
 
-var totalDownloads = 145579; // pre-GitHub download total
+var totalDownloads = 145928; // pre-GitHub download total
 
 var handleApiResponse = function() {
   if (xmlHttp.readyState === 4) {
