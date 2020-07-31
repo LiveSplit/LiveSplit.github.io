@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.13">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Added an option to disable gamepads as hotkeys. This could prevent an issue with LiveSplit freezing in some cases.</change>
+    </changelog>
+  </update>
   <update version="1.8.12">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
