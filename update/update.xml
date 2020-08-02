@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.14">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Splits and layouts can now be opened by dragging and dropping a file onto a LiveSplit window.</change>
+      <change>Fixed an issue with gamepads being disabled as hotkeys when cancelling the Settings dialog.</change>
+    </changelog>
+  </update>
   <update version="1.8.13">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
