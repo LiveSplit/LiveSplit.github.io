@@ -4,6 +4,10 @@ title: Introduction
 permalink: /introduction/
 order: 3
 ---
-If you’re new to LiveSplit, you should watch this video created by [Linkus7](https://twitter.com/Linkus7) and read through the [FAQ]({{ site.baseurl }}/faq).
+If you’re new to LiveSplit, you can watch this tutorial video created by [Linkus7](https://twitter.com/Linkus7) and read through the [FAQ]({{ site.baseurl }}/faq).
 
 <iframe width="638" height="359" src="https://www.youtube.com/embed/L2cfeN9xHjM" frameborder="0" allowfullscreen></iframe>
+
+You can also watch this tutorial video in Spanish created by [Professor Yax](https://twitter.com/ProfesorYax).
+
+<iframe width="638" height="359" src="https://www.youtube.com/embed/0nBMFYsnnLI" frameborder="0" allowfullscreen></iframe>
