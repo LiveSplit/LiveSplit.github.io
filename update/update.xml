@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.16">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>The racetime.gg integration has been revamped, but it cannot be updated through the auto updater. Please redownload LiveSplit to receive the update.</change>
+      <change>Made some performance optimizations related to dialog disposal.</change>
+    </changelog>
+  </update>
   <update version="1.8.15">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

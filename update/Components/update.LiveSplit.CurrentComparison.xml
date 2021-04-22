@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.16">
+		<files>
+			<file path="Components/LiveSplit.CurrentComparison.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Removed the font overrides from the settings since they were previously unused.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.CurrentComparison.dll" status="changed" />
