@@ -44,6 +44,10 @@ order: 5
 			<td><a href="https://github.com/Minibeast/LiveSplit.Discord/releases">LiveSplit.Discord</a><br>by <a href="https://twitter.com/aMinibeast">Minibeast</a></td>
 			<td>Shows the current run title and run category in Discord using Rich Presence.</td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/TheSoundDefense/LiveSplit.ResetChance/releases">Reset Chance</a><br>by <a href="https://github.com/TheSoundDefense">The Sound Defense</a></td>
+			<td>Shows the likelihood that the run will be reset during the current split.</td>
+		</tr>
 	</tbody>
 </table>
 
