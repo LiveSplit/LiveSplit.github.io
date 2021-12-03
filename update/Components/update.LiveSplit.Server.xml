@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.17">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added methods to get the current time.</change>
+			<change>Multiple IP addresses are now listed if they exist.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.Server.dll" status="changed" />

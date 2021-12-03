@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.17">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="x64/livesplit_core.dll" status="changed" />
+      <file path="x86/livesplit_core.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>The Splits Editor now has an option to specify a layout to load with the splits.</change>
+      <change>There is now an option to update LiveSplit's refresh rate in the Settings.</change>
+      <change>Improved the performance of the Browse Speedrun.com dialog.</change>
+      <change>Fixed an issue where the splits were not marked as modified when Auto Splitter settings changed.</change>
+    </changelog>
+  </update>
   <update version="1.8.16">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

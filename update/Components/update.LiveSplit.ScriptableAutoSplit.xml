@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.17">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed scripts not reloading when a file is renamed.</change>
+			<change>Added start, split, and reset timer event methods.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
