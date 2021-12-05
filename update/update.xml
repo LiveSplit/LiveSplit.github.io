@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.18">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="x64/livesplit_core.dll" status="changed" />
+      <file path="x86/livesplit_core.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Fixed an issue with livesplit-core not loading for some users.</change>
+    </changelog>
+  </update>
   <update version="1.8.17">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
