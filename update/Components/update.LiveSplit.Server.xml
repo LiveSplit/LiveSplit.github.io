@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.19">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fix getdelta not working at the end of a run.</change>
+		</changelog>
+	</update>
 	<update version="1.8.17">
 		<files>
 			<file path="Components/LiveSplit.Server.dll" status="changed" />

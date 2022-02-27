@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.19">
+		<files>
+			<file path="Components/LiveSplit.PossibleTimeSave.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added an option to drop decimals when the time is more than 1 minute.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.PossibleTimeSave.dll" status="changed" />

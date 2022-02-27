@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.19">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="LiveSplit.exe" status="changed" />
+    </files>
+    <changelog>
+        <change>Updated the Twitch integration to use the new Helix API.</change>
+        <change>This update automatically disables the "Allow Gamepads as Hotkeys" setting if no gamepad hotkey are currently being used.</change>
+        <change>Fixed the process for authentication with Speedrun.com for the first time.</change>
+    </changelog>
+  </update>
   <update version="1.8.18">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.19">
+		<files>
+			<file path="Components/LiveSplit.Splits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Use the comparison name by default for the column name.</change>
+		</changelog>
+	</update>
 	<update version="1.8.10">
 		<files>
 			<file path="Components/LiveSplit.Splits.dll" status="changed" />
