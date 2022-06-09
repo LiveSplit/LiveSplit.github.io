@@ -41,7 +41,7 @@ order: 5
 			<td>Enables Global Hotkeys only when specified programs have focus.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Minibeast/LiveSplit.Discord/releases">LiveSplit.Discord</a><br>by <a href="https://twitter.com/aMinibeast">Minibeast</a></td>
+			<td><a href="https://github.com/Minibeast/LiveSplit.Discord/releases">LiveSplit.Discord</a><br>by <a href="https://twitter.com/aMinibeast">Mini</a></td>
 			<td>Shows the current run title and run category in Discord using Rich Presence.</td>
 		</tr>
 		<tr>
