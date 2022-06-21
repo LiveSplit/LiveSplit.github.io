@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.20">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="SpeedrunComSharp.dll" status="changed" />
+    </files>
+    <changelog>
+        <change>Only show .lss files by default in the "Open Splits From File" dialog.</change>
+        <change>Fixed an issue with the "Associate Run" button in the Splits Editor not working properly.</change>
+        <change>Fixed an issue with timer only mode not being enabled on startup in some cases.</change>
+    </changelog>
+  </update>
   <update version="1.8.19">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
