@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.21">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+        <change>Fixed an issue with the Speedrun.com API key not being saved in some situations.</change>
+    </changelog>
+  </update>
   <update version="1.8.20">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
