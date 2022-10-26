@@ -48,6 +48,10 @@ order: 5
 			<td><a href="https://github.com/TheSoundDefense/LiveSplit.ResetChance/releases">Reset Chance</a><br>by <a href="https://github.com/TheSoundDefense">The Sound Defense</a></td>
 			<td>Shows the likelihood that the run will be reset during the current split.</td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
+			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
+		</tr>
 	</tbody>
 </table>
 
