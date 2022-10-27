@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="2.0.3">
+		<files>
+			<file path="UpdateManager.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Components can now specify a local file path for updates.</change>
+		</changelog>
+	</update>
 	<update version="2.0.2">
 		<files>
 			<file path="UpdateManager.dll" status="changed" />

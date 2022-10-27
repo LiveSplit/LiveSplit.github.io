@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.22">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="added" />
+      <file path="Components/x64/asr_capi.dll" status="added" />
+      <file path="Components/x86/asr_capi.dll" status="added" />
+    </files>
+    <changelog>
+        <change>Added the Auto Splitting Runtime component, which allows running Auto Splitter scripts that use LiveSplit One's new safer sandboxed auto splitting runtime.</change>
+    </changelog>
+  </update>
   <update version="1.8.21">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
