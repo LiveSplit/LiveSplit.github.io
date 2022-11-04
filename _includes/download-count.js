@@ -18,7 +18,7 @@ var handleApiResponse = function() {
       xmlHttp.open("GET", nextUrlMatch[1]);
       xmlHttp.send();
     } else {
-      document.getElementById("download-count").innerText = totalDownloads + " downloads";
+      document.getElementById("download-count").innerText = totalDownloads.toLocaleString() + " downloads";
     }
   }
 };
