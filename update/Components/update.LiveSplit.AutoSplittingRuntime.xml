@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.2">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Settings are now supported.</change>
+            <change>The size of modules can now be queried.</change>
+        </changelog>
+    </update>
 </updates>
