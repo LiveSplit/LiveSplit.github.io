@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.3">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Memory ranges of processes can now be enumerated.</change>
+            <change>The operating system and architecture of the platform that the runtime is running on can now be queried.</change>
+            <change>Fixed a bug where generating debugging information sometimes caused the runtime to crash.</change>
+            <change>The tick rate is now properly taken into account.</change>
+            <change>The settings are now properly saved and refreshed.</change>
+        </changelog>
+    </update>
     <update version="0.0.2">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
