@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.4">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>WASI is now supported. Considering WASI itself is still in preview, the API is subject to change. Auto splitters using WASI may need to be recompiled in the future.</change>
+            <change>Through WASI, an auto splitter now has read-only access to the host's file system at "/mnt".</change>
+            <change>You can now access the path of a process within the mounted file system.</change>
+        </changelog>
+    </update>
     <update version="0.0.3">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />

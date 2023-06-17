@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.26">
+		<files>
+			<file path="Components/LiveSplit.Text.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed a bug with the wrong font name label being updated in the settings when changing the font.</change>
+		</changelog>
+	</update>
 	<update version="1.8.0">
 		<files>
 			<file path="Components/LiveSplit.Text.dll" status="changed" />

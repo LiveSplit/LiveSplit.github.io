@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.26">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="Components/AxInterop.AXVLC.dll" status="changed" />
+      <file path="Components/Interop.AXVLC.dll" status="changed" />
+      <file path="x64/livesplit_core.dll" status="changed" />
+      <file path="x86/livesplit_core.dll" status="changed" />
+    </files>
+    <changelog>
+        <change>Updated the Video Component to only be compatible with VLC v3.0.</change>
+        <change>Fixed a bug with split times occasionally being stored with incorrect precision (e.g. 2:14.199999 instead of 2:14.20).</change>
+        <change>Fixed stream links not working for the SpeedRunsLive race viewer.</change>
+        <change>Fixed a bug with caching process modules in some auto splitter components.</change>
+    </changelog>
+  </update>
   <update version="1.8.25">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

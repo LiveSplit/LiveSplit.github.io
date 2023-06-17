@@ -4,7 +4,7 @@ title: Downloads
 permalink: /downloads/
 order: 2
 ---
-### [LiveSplit 1.8.25](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.25/LiveSplit_1.8.25.zip)
+### [LiveSplit 1.8.26](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.26/LiveSplit_1.8.26.zip)
 
 <div id="download-count"></div>
 
