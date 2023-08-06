@@ -89,7 +89,7 @@ order: 5
 		</tr>
 		<tr>
 			<td>Previous Segment</td>
-			<td>Displays the different between the personal best and the current run over the last segment. Becomes "Live Segment" if the current segment is longer than the best segment.</td>
+			<td>Displays the difference between the personal best and the current run over the last segment. Becomes "Live Segment" if the current segment is longer than the best segment.</td>
 		</tr>
 		<tr>
 			<td>Possible Time Save</td>
