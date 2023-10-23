@@ -1,4 +1,4 @@
-var totalDownloads = 145928; // pre-GitHub download total
+var totalDownloads = 365354; // Include downloads not part of API response
 
 var handleApiResponse = function() {
   if (xmlHttp.readyState === 4) {
