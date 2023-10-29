@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.6">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Auto splitter can now react to settings changes without being restarted.</change>
+            <change>Auto splitters can now store additional settings that are not visible to the user.</change>
+        </changelog>
+    </update>
     <update version="0.0.5">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
