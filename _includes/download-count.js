@@ -1,4 +1,4 @@
-var totalDownloads = 374294; // Include downloads not part of API response
+var totalDownloads = 412294; // Include downloads not part of API response
 
 var handleApiResponse = function() {
   if (xmlHttp.readyState === 4) {
