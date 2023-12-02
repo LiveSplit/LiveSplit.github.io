@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.7">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>The path of a module in a process can be queried now.</change>
+            <change>Setting values can now in addition to booleans be integers, floating point numbers, strings, or lists containing values.</change>
+            <change>The settings GUI is now a proper GUI instead of a checkbox tree.</change>
+            <change>The settings now support combo boxes of custom options.</change>
+            <change>Auto splitters can now react to more situations where settings got changed without being restarted.</change>
+        </changelog>
+    </update>
     <update version="0.0.6">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
