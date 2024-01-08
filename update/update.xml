@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.27">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="SpeedrunComSharp.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Fixed an issue with Speedrun.com categories not being pulled for some games.</change>
+      <change>Fixed an issue with the newer format of Speedrun.com run URLs not being parsed.</change>
+      <change>Fixed the SpeedRunsLive rules link being incorrect.</change>
+      <change>Fixed the "Clean Sum of Best" button not showing anything if there is nothing to clean.</change>
+      <change>Fixed an issue with "Allow Gamepads as Hotkeys" sometimes still being on when disabled in the settings after loading some Auto Splitters.</change>
+      <change>Fixed the total module count being hardcoded to 1024 when Auto Splitters search for a process's modules.</change>
+    </changelog>
+  </update>
   <update version="1.8.26">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />

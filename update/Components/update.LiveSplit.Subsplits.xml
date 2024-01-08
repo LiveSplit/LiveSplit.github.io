@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.27">
+		<files>
+			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added an option to automatically abbreviate split names.</change>
+		</changelog>
+	</update>
 	<update version="1.8.11">
 		<files>
 			<file path="Components/LiveSplit.Subsplits.dll" status="changed" />

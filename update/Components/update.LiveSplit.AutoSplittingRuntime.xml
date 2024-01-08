@@ -44,7 +44,7 @@
             <file path="Components/x86/asr_capi.dll" status="changed" />
         </files>
         <changelog>
-            <change>Fixed memory corruptions that occured due to race conditions.</change>
+            <change>Fixed memory corruptions that occurred due to race conditions.</change>
             <change>Auto splitters can now skip and undo splits.</change>
             <change>Settings can now have tooltips.</change>
             <change>Settings can now be grouped with titles.</change>
