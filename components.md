@@ -53,8 +53,8 @@ order: 5
 			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://github.com/andrewhuntsmith">XandoToaster</a></td>
-			<td>Compares the pace of the current run to the pace of every run in the split history.</td>
+			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://twitter.com/XandoToaster">XandoToaster</a></td>
+			<td>Tells you your current place in a theortical race against every previous pace in the current history.</td>
 		</tr>
 	</tbody>
 </table>
