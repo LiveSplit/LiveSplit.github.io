@@ -54,7 +54,7 @@ order: 5
 		</tr>
 		<tr>
 			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://twitter.com/XandoToaster">XandoToaster</a></td>
-			<td>Tells you your current place in a theortical race against every previous pace in the current history.</td>
+			<td>Tells you your current place in a theoretical race against every previous pace in the current history.</td>
 		</tr>
 	</tbody>
 </table>
