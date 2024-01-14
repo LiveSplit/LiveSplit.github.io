@@ -52,6 +52,10 @@ order: 5
 			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
 			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://github.com/andrewhuntsmith">XandoToaster</a></td>
+			<td>Compares the pace of the current run to the pace of every run in the split history.</td>
+		</tr>
 	</tbody>
 </table>
 
