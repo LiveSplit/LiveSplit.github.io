@@ -56,6 +56,10 @@ order: 5
 			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://twitter.com/XandoToaster">XandoToaster</a></td>
 			<td>Tells you your current place in a theoretical race against every previous pace in the current history.</td>
 		</tr>
+		<tr>
+			<td><a href="https://github.com/Shotnex4/LiveSplit.TimeAttackPause/releases">TimeAttackPause</a><br>by <a href="https://github.com/Shotnex4">Shotnex4</a></td>
+			<td>Allows you to pause and save your run in a file midgame and continue it later.</td>
+		</tr>
 	</tbody>
 </table>
 
