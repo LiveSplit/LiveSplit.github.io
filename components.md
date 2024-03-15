@@ -17,16 +17,20 @@ order: 5
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
+			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
+		</tr>
+		<tr>
 			<td><a href="https://github.com/fatalis/sourcesplit/releases">SourceSplit</a><br>by <a href="http://twitter.com/fatalis_">Fatalis</a></td>
 			<td>SourceSplit is a component that helps out Source engine speedrunning. It can automatically split for you when a map changes, and it keeps track of in-game time so you don't have to record demos. It works by reading the game's memory, and it should work on every Source engine game.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/LiveSplit/LiveSplit.Server/releases">LiveSplit Server</a></td>
-			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit.</td>
-		</tr>
-		<tr>
 			<td><a href="https://github.com/LiveSplit/LiveSplit.Counter/releases">Counter</a><br>by <a href="https://twitter.com/JayceAndTheNews">Chris</a></td>
 			<td>Displays a custom counter that can be controlled with hotkeys.</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/LiveSplit/LiveSplit.Server/releases">LiveSplit Server</a></td>
+			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit. (Note: this component will be deprecated in LiveSplit 1.8.28, with its functionality built in to LiveSplit directly.)</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.nightgamedev.com/sgl">Speed Guides Live</a><br>by <a href="https://twitter.com/inightfaller">iNightfaller</a></td>
@@ -47,10 +51,6 @@ order: 5
 		<tr>
 			<td><a href="https://github.com/TheSoundDefense/LiveSplit.ResetChance/releases">Reset Chance</a><br>by <a href="https://github.com/TheSoundDefense">The Sound Defense</a></td>
 			<td>Shows the likelihood that the run will be reset during the current split.</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
-			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/andrewhuntsmith/LiveSplit.PacePlacement/releases">Pace Placement</a><br>by <a href="https://twitter.com/XandoToaster">XandoToaster</a></td>
