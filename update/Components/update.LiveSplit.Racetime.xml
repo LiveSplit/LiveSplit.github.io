@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-	<update version="1.8.28">
-		<files>
-			<file path="Components/LiveSplit.Racetime.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fixed an issue with freezing if a race does not have an image associated with the game.</change>
-			<change>Fixed an issue with short comparison names not being set properly while racing.</change>
-		</changelog>
-	</update>
   	<update version="1.8.10">
 		<files>
 			<file path="Components/LiveSplit.Racetime.dll" status="changed" />
