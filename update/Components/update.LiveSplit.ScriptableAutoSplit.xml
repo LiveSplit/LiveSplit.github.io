@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.8.28">
+		<files>
+			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed an issue with timer events not always being unsubscribed.</change>
+		</changelog>
+	</update>
 	<update version="1.8.26">
 		<files>
 			<file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
