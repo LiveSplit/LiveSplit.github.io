@@ -17,10 +17,6 @@ order: 5
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
-			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
-		</tr>
-		<tr>
 			<td><a href="https://github.com/fatalis/sourcesplit/releases">SourceSplit</a><br>by <a href="http://twitter.com/fatalis_">Fatalis</a></td>
 			<td>SourceSplit is a component that helps out Source engine speedrunning. It can automatically split for you when a map changes, and it keeps track of in-game time so you don't have to record demos. It works by reading the game's memory, and it should work on every Source engine game.</td>
 		</tr>
@@ -30,7 +26,7 @@ order: 5
 		</tr>
 		<tr>
 			<td><a href="https://github.com/LiveSplit/LiveSplit.Server/releases">LiveSplit Server</a></td>
-			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit. (Note: this component will be deprecated in LiveSplit 1.8.28, with its functionality built in to LiveSplit directly.)</td>
+			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit. (Note: this component will be deprecated in LiveSplit 1.8.29, with its functionality built in to LiveSplit directly.)</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.nightgamedev.com/sgl">Speed Guides Live</a><br>by <a href="https://twitter.com/inightfaller">iNightfaller</a></td>
@@ -114,6 +110,10 @@ order: 5
 		<tr>
 			<td>Run Prediction</td>
 			<td>Shows a predicted time for your current run based on a comparison that you choose.</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases">LiveSplit.TheRun</a><br>by <a href="https://therun.gg">therun.gg</a></td>
+			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
 		</tr>
 		<tr>
 			<td>Hotkey Indicator</td>
