@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.28">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="Components/LiveSplit.TheRun.dll" status="added" />
+    </files>
+    <changelog>
+      <change>Added a component to integrate with therun.gg. Go to https://therun.gg/livesplit to get started.</change>
+      <change>Fixed an issue with not being able to upload to Speedrun.com when a category allows up to 2-4 players but still allows solo runs.</change>
+      <change>Fixed an issue with attempt history timestamps not being in UTC internally, making it more difficult for components to work with them.</change>
+    </changelog>
+  </update>
   <update version="1.8.27">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
