@@ -15,6 +15,7 @@ imagesurl: "/images"
 url: "http://livesplit.github.io" # the base hostname & protocol for your site
 cryze_username: CryZe107
 wooferzfg_username: wooferzfg
+livesplit_username: LiveSplit
 
 # Build settings
 markdown: kramdown
