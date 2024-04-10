@@ -14,7 +14,7 @@ In order to keep your settings from previous versions, copy the settings.cfg fil
 
 ### [LiveSplit Development Build](https://raw.githubusercontent.com/LiveSplit/LiveSplit.github.io/artifacts/LiveSplitDevBuild.zip)
 
-The Development Build is released with every new change on [GitHub](https://github.com/LiveSplit/LiveSplit) and has all of the latest features and improvements to LiveSplit.
+The Development Build is released with every new change on [GitHub](https://github.com/LiveSplit/LiveSplit){:target="_blank"} and has all of the latest features and improvements to LiveSplit.
 However, this build may be less stable and have some bugs as a result.
 
 <script>{% include download-count.js %}</script>
