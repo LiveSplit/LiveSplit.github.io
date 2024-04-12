@@ -112,7 +112,7 @@ order: 5
 			<td>Shows a predicted time for your current run based on a comparison that you choose.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/therungg/LiveSplit.TheRun/releases" target="_blank">LiveSplit.TheRun</a><br>by <a href="https://therun.gg" target="_blank">therun.gg</a></td>
+			<td><a href="https://github.com/therungg/LiveSplit.TheRun?tab=readme-ov-file#how-to-install" target="_blank">LiveSplit.TheRun</a><br>by <a href="https://therun.gg" target="_blank">therun.gg</a></td>
 			<td>Uploads runs automatically to therun.gg and keeps track of live runs for The Run Live.</td>
 		</tr>
 		<tr>
