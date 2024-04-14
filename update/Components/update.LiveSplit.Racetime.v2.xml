@@ -24,6 +24,8 @@
             <file path="Components/v8_context_snapshot.bin" status="removed" />
         </files>
         <changelog>
+            <change>Switch to WebView2 for accessing the Racetime.gg site.</change>
+            <change>Fixed a bug with the "Log Out of All Accounts" button in the LiveSplit Settings not affecting Racetime.gg credentials.</change>
         </changelog>
     </update>
     <update version="1.8.28">

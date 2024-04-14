@@ -5,6 +5,8 @@
             <file path="Components/LiveSplit.Video.dll" status="changed" />
         </files>
         <changelog>
+            <change>Fixed newer versions of VLC causing LiveSplit to crash when using the Video component.</change>
+            <change>Fixed a bug with height and width changes not being reflected sometimes.</change>
         </changelog>
     </update>
     <update version="1.8.26">
