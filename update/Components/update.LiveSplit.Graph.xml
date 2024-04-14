@@ -1,141 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-	<update version="1.8.26">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fixed a bug with the best segment color not being disabled by default when settings are loaded.</change>
-		</changelog>
-	</update>
-	<update version="1.8.0">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.8.0.</change>
-		</changelog>
-	</update>
-	<update version="1.7.7">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.7.7.</change>
-		</changelog>
-	</update>
-	<update version="1.7">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.7.</change>
-		</changelog>
-	</update>
-	<update version="1.6.8">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fix an issue with the way that Best Segments are drawn.</change>
-		</changelog>
-	</update>
-	<update version="1.6.7">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fix an issue with the way that Best Segments are displayed.</change>
-		</changelog>
-	</update>
-	<update version="1.6.6">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fix an issue with the last two splits not being graphed properly.</change>
-		</changelog>
-	</update>
-	<update version="1.6.3">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.6.3.</change>
-		</changelog>
-	</update>
-	<update version="1.6.2">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Fixed a small bug.</change>
-		</changelog>
-	</update>
-	<update version="1.6">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.6.</change>
-		</changelog>
-	</update>
-	<update version="1.5.0">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Added an option to visualize Best Segments.</change>
-		</changelog>
-	</update>
-	<update version="1.4.0">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.4.</change>
-		</changelog>
-	</update>
-	<update version="1.3.10">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.3.11.</change>
-		</changelog>
-	</update>
-	<update version="1.3.9">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.3.10.</change>
-		</changelog>
-	</update>
-	<update version="1.3">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.3.</change>
-		</changelog>
-	</update>
-	<update version="1.2">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Added separate fill colors for ahead and behind.</change>
-			<change>Added an option to flip the Graph.</change>
-		</changelog>
-	</update>
-	<update version="1.1">
-		<files>
-			<file path="Components/LiveSplit.Graph.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Supports pausing now.</change>
-			<change>Improved the graph slider to fit the style of the other sliders.</change>
-		</changelog>
-	</update>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.26">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug with the best segment color not being disabled by default when settings are loaded.</change>
+        </changelog>
+    </update>
+    <update version="1.8.0">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.8.0.</change>
+        </changelog>
+    </update>
+    <update version="1.7.7">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.7.</change>
+        </changelog>
+    </update>
+    <update version="1.7">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.</change>
+        </changelog>
+    </update>
+    <update version="1.6.8">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fix an issue with the way that Best Segments are drawn.</change>
+        </changelog>
+    </update>
+    <update version="1.6.7">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fix an issue with the way that Best Segments are displayed.</change>
+        </changelog>
+    </update>
+    <update version="1.6.6">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fix an issue with the last two splits not being graphed properly.</change>
+        </changelog>
+    </update>
+    <update version="1.6.3">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.3.</change>
+        </changelog>
+    </update>
+    <update version="1.6.2">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a small bug.</change>
+        </changelog>
+    </update>
+    <update version="1.6">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.</change>
+        </changelog>
+    </update>
+    <update version="1.5.0">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added an option to visualize Best Segments.</change>
+        </changelog>
+    </update>
+    <update version="1.4.0">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.4.</change>
+        </changelog>
+    </update>
+    <update version="1.3.10">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.3.11.</change>
+        </changelog>
+    </update>
+    <update version="1.3.9">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.3.10.</change>
+        </changelog>
+    </update>
+    <update version="1.3">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.3.</change>
+        </changelog>
+    </update>
+    <update version="1.2">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added separate fill colors for ahead and behind.</change>
+            <change>Added an option to flip the Graph.</change>
+        </changelog>
+    </update>
+    <update version="1.1">
+        <files>
+            <file path="Components/LiveSplit.Graph.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Supports pausing now.</change>
+            <change>Improved the graph slider to fit the style of the other sliders.</change>
+        </changelog>
+    </update>
 </updates>

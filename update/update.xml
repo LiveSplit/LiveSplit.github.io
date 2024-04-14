@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.29">
+    <files>
+      <file path="CLRHost.Interop32.dll" status="removed" />
+      <file path="CLRHost.Interop64.dll" status="removed" />
+      <file path="CLRHostPlugin32.dll" status="removed" />
+      <file path="CLRHostPlugin64.dll" status="removed" />
+      <file path="Codaxy.Xlio.dll" status="changed" />
+      <file path="Codaxy.Xlio.XmlSerializers.dll" status="changed" />
+      <file path="ICSharpCode.SharpZipLib.dll" status="changed" />
+      <file path="IrcDotNet.Common.dll" status="removed" />
+      <file path="IrcDotNet.dll" status="changed" />
+      <file path="LinqToTwitter.dll" status="removed" />
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.Core.dll.config" status="changed" />
+      <file path="LiveSplit.exe" status="changed" />
+      <file path="LiveSplit.exe.config" status="changed" />
+      <file path="LiveSplit.Register.exe" status="changed" />
+      <file path="LiveSplit.Register.exe.config" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="SpeedrunComSharp.dll" status="changed" />
+      <file path="System.Buffers.dll" status="added" />
+      <file path="System.Memory.dll" status="added" />
+      <file path="System.Numerics.Vectors.dll" status="added" />
+      <file path="System.Resources.Extensions.dll" status="added" />
+      <file path="System.Runtime.CompilerServices.Unsafe.dll" status="added" />
+    </files>
+    <changelog>
+    </changelog>
+  </update>
   <update version="1.8.28">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
