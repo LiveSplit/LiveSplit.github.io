@@ -17,4 +17,9 @@ In order to keep your settings from previous versions, copy the settings.cfg fil
 The Development Build is released with every new change on [GitHub](https://github.com/LiveSplit/LiveSplit){:target="_blank"} and has all of the latest features and improvements to LiveSplit.
 However, this build may be less stable and have some bugs as a result.
 
+### [LiveSplit One (web version)](https://one.livesplit.org/)
+LiveSplit One is a version of LiveSplit that uses the multiplatform
+[livesplit-core](https://github.com/LiveSplit/livesplit-core) library to create a new LiveSplit experience that
+works on a lot of different platforms.
+
 <script>{% include download-count.js %}</script>
