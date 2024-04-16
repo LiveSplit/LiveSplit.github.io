@@ -1,3 +1,9 @@
+@font-face {
+    font-family: fira;
+    font-display: swap;
+    src: url(FiraSans-Regular.woff);
+  }
+
 html {
     background-image: url(../images/diagonal-stripes.png);
     background-repeat: repeat;
@@ -20,10 +26,40 @@ p {
     margin-top: 20px;
 }
 
-.banner>a>img {
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+.banner {
+    display: flex;
+    text-decoration: none;
+    color: #cccccc;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 5px 0;
+
+    &:hover {
+        text-decoration: none;
+        color: #cccccc;
+    }
+
+    .banner-icon {
+        height: 150px;
+    }
+
+    .banner-text {
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        font-family: "fira", Trebuchet, arial, sans-serif;
+        
+        .banner-title {
+            font-size: 6em;
+            margin-top: -20px;
+        }
+
+        .banner-subtitle {
+            font-size: 2em;
+            margin-top: -20px;
+            margin-left: 8px;  // Align left edge with the title text
+        }
+    }
 }
 
 .img-align-center {

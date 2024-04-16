@@ -2,9 +2,13 @@
   <div class="fork-me">
     <a href="https://github.com/LiveSplit/LiveSplit" target="_blank"><img src="{{ site.imagesurl }}/forkme.png" alt="Fork Me on GitHub"></a>
   </div>
-  <div class="banner">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.imagesurl }}/banner.png" alt="LiveSplit Banner"></a>
-  </div>
+  <a class="banner" href="{{ site.baseurl }}/">
+    <img class="banner-icon" src="{{ site.imagesurl }}/icon.svg" alt="LiveSplit">
+    <div class="banner-text">
+      <div class="banner-title">LiveSplit</div>
+      <div class="banner-subtitle">A sleek, highly customizable timer for speedrunners</div>
+    </div>
+  </a>
   <div class="container-fluid">
     <ul class="nav nav-pills">
       {% assign sorted_pages = (site.pages | sort: 'order') %}
