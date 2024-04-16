@@ -5,6 +5,7 @@
             <file path="Components/LiveSplit.HotkeyIndicator.dll" status="changed" />
         </files>
         <changelog>
+            <change>The height or width can now be adjusted in the settings.</change>
         </changelog>
     </update>
     <update version="1.8.0">
