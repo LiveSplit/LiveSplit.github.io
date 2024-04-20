@@ -26,6 +26,7 @@
         <changelog>
             <change>Switch to WebView2 for accessing the Racetime.gg site.</change>
             <change>Fixed a bug with the "Log Out of All Accounts" button in the LiveSplit Settings not affecting Racetime.gg credentials.</change>
+            <change>Game images for races are no longer fetched, which slightly improves LiveSplit's performance on startup.</change>
         </changelog>
     </update>
     <update version="1.8.28">
