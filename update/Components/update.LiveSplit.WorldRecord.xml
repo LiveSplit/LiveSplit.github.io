@@ -5,6 +5,7 @@
             <file path="Components/LiveSplit.WorldRecord.dll" status="changed" />
         </files>
         <changelog>
+            <change>There is now a setting to override the timing method.</change>
         </changelog>
     </update>
     <update version="1.8.21">
