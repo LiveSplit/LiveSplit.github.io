@@ -38,6 +38,7 @@
       <change>Fixed a bug with downloading the box art from Twitch not working correctly.</change>
       <change>Fixed a bug with the "Log Out of All Accounts" button not removing credentials in memory until the next time LiveSplit was opened.</change>
       <change>Fixed a bug with some splits files with unsupported image types failing to load.</change>
+      <change>Fixed a bug with font sizes not being consistent before vs. after editing font settings for a layout.</change>
       <change>Improved the performance of the autocomplete dropdown when choosing a game name in the Splits Editor.</change>
       <change>Improved the performance of the races list in the right click menu for Racetime.gg and SpeedRunsLive.</change>
       <change>For future updates, the update prompt will no longer appear in the background, in order to prevent some potential issues with LiveSplit hanging.</change>
