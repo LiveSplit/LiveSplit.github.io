@@ -28,7 +28,7 @@
     </files>
     <changelog>
       <change>The TCP Server is now part of LiveSplit, rather than requiring a separate Server component. Some server commands behave slightly differently now, and some bugs were fixed. Server commands are documented in the LiveSplit README on GitHub.</change>
-      <change>Sharing to Twitter was removed, since the API is no longer free.</change>
+      <change>Fixed sharing to Twitter. Now, it copies a screenshot of LiveSplit to the clipboard and uses a Web Intent to open a Tweet composition window in the browser.</change>
       <change>When a delta is exactly 0, the value is now shown with the "ahead" color and without a plus sign.</change>
       <change>Fixed a bug with the Speedrun.com authentication prompt not redirecting to the API key page in the settings.</change>
       <change>Fixed a bug with transparency in a gradient not being displayed properly when sharing to a screenshot.</change>
