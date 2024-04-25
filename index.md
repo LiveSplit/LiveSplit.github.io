@@ -39,7 +39,7 @@ You can even use your own background images.
 **Dynamic Resizing:** LiveSplit can be resized to any size so that it looks good on stream.
 As LiveSplit’s size is changed, all of its parts are automatically scaled up in order to preserve its appearance.
 
-**Sharing Runs:** Any run can be shared to [Speedrun.com](http://speedrun.com/){:target="_blank"}.
+**Sharing Runs:** Any run can be shared to [Speedrun.com](http://speedrun.com/){:target="_blank"} and [X (Twitter)](https://twitter.com/){:target="_blank"}.
 Splits can also be distributed using [Splits i/o](https://splits.io/){:target="_blank"} and imported from a URL.
 You can also share a screenshot of your splits to [Imgur](http://imgur.com/){:target="_blank"} or save it as a file.
 Your [Twitch](http://www.twitch.tv/){:target="_blank"} title can be updated as well based on the game you are playing.
