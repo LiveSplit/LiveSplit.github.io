@@ -2,6 +2,7 @@
 <updates>
   <update version="1.8.29">
     <files>
+      <file path="Components/LiveSplit.ComparisonTime.dll" status="added" />
       <file path="CLRHost.Interop32.dll" status="removed" />
       <file path="CLRHost.Interop64.dll" status="removed" />
       <file path="CLRHostPlugin32.dll" status="removed" />
@@ -29,6 +30,7 @@
     <changelog>
       <change>The TCP Server is now part of LiveSplit, rather than requiring a separate Server component. Some server commands behave slightly differently now, and some bugs were fixed. Server commands are documented in the LiveSplit README on GitHub.</change>
       <change>Fixed sharing to Twitter. Now, it copies a screenshot of LiveSplit to the clipboard and uses a Web Intent to open a Tweet composition window in the browser.</change>
+      <change>Added a Comparison Time component, which shows the final time (or split time/segment time) for a particular comparison.</change>
       <change>When a delta is exactly 0, the value is now shown with the "ahead" color and without a plus sign.</change>
       <change>Fixed a bug with the Speedrun.com authentication prompt not redirecting to the API key page in the settings.</change>
       <change>Fixed a bug with transparency in a gradient not being displayed properly when sharing to a screenshot.</change>

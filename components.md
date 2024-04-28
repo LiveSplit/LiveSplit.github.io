@@ -124,6 +124,10 @@ order: 5
 			<td>This component displays which comparison you are currently comparing against.</td>
 		</tr>
 		<tr>
+			<td>Comparison Time</td>
+			<td>Displays the final time (or a split time/segment time) from a particular comparison.</td>
+		</tr>
+		<tr>
 			<td>Delta</td>
 			<td>Displays the current delta to a comparison.</td>
 		</tr>
