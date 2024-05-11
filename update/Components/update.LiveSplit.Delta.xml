@@ -1,51 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-	<update version="1.8.0">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.8.0.</change>
-		</changelog>
-	</update>
-	<update version="1.7.7">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.7.7.</change>
-		</changelog>
-	</update>
-	<update version="1.7.2">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.7.2.</change>
-		</changelog>
-	</update>
-	<update version="1.6.3">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.6.3.</change>
-		</changelog>
-	</update>
-	<update version="1.6">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.6.</change>
-		</changelog>
-	</update>
-	<update version="1.1.0">
-		<files>
-			<file path="Components/LiveSplit.Delta.dll" status="changed" />
-		</files>
-		<changelog>
-			<change>Now compatible with 1.5.</change>
-		</changelog>
-	</update>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.0">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.8.0.</change>
+        </changelog>
+    </update>
+    <update version="1.7.7">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.7.</change>
+        </changelog>
+    </update>
+    <update version="1.7.2">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.2.</change>
+        </changelog>
+    </update>
+    <update version="1.6.3">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.3.</change>
+        </changelog>
+    </update>
+    <update version="1.6">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.</change>
+        </changelog>
+    </update>
+    <update version="1.1.0">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.5.</change>
+        </changelog>
+    </update>
 </updates>
