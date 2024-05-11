@@ -21,14 +21,6 @@ order: 5
 			<td>SourceSplit is a component that helps out Source engine speedrunning. It can automatically split for you when a map changes, and it keeps track of in-game time so you don't have to record demos. It works by reading the game's memory, and it should work on every Source engine game.</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/LiveSplit/LiveSplit.Counter/releases" target="_blank">Counter</a><br>by <a href="https://twitter.com/JayceAndTheNews" target="_blank">Chris</a></td>
-			<td>Displays a custom counter that can be controlled with hotkeys.</td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/LiveSplit/LiveSplit.Server/releases" target="_blank">LiveSplit Server</a></td>
-			<td>Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit. (Note: this component will be deprecated in LiveSplit 1.8.29, with its functionality built in to LiveSplit directly.)</td>
-		</tr>
-		<tr>
 			<td><a href="https://www.nightgamedev.com/sgl" target="_blank">Speed Guides Live</a><br>by <a href="https://twitter.com/inightfaller" target="_blank">iNightfaller</a></td>
 			<td>Allows you to create a guide for your speedrun with notes that are displayed for each individual segment.</td>
 		</tr>
@@ -55,6 +47,10 @@ order: 5
 		<tr>
 			<td><a href="https://github.com/Shotnex4/LiveSplit.TimeAttackPause/releases" target="_blank">TimeAttackPause</a><br>by <a href="https://github.com/Shotnex4" target="_blank">Shotnex4</a></td>
 			<td>Allows you to pause and save your run in a file midgame and continue it later.</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/LiveSplit/LiveSplit.Server/releases" target="_blank">LiveSplit Server</a></td>
+			<td>(Note: This component is deprecated, as its functionality is now built in to LiveSplit directly. See <a href="https://github.com/livesplit/livesplit?tab=readme-ov-file#the-livesplit-server" target="_blank">the documentation</a> for more information.) Allows a remote connection and control of LiveSplit by starting a small server within LiveSplit.</td>
 		</tr>
 	</tbody>
 </table>
@@ -126,6 +122,10 @@ order: 5
 		<tr>
 			<td>Comparison Time</td>
 			<td>Displays the final time (or a split time/segment time) from a particular comparison.</td>
+		</tr>
+		<tr>
+			<td>Counter<br>by <a href="https://twitter.com/JayceAndTheNews" target="_blank">Chris</a></td>
+			<td>Displays a custom counter that can be controlled with hotkeys.</td>
 		</tr>
 		<tr>
 			<td>Delta</td>
