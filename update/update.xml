@@ -28,6 +28,7 @@
       <file path="System.Numerics.Vectors.dll" status="added" />
       <file path="System.Resources.Extensions.dll" status="added" />
       <file path="System.Runtime.CompilerServices.Unsafe.dll" status="added" />
+      <file path="WinFormsColor.dll" status="changed" />
     </files>
     <changelog>
       <change>The TCP Server is now part of LiveSplit, rather than requiring a separate Server component. Some server commands behave slightly differently now, and some bugs were fixed. Server commands are documented in the LiveSplit README on GitHub.</change>
