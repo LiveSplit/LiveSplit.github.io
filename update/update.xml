@@ -9,6 +9,8 @@
       <file path="CLRHostPlugin64.dll" status="removed" />
       <file path="Codaxy.Xlio.dll" status="changed" />
       <file path="Codaxy.Xlio.XmlSerializers.dll" status="changed" />
+      <file path="CustomFontDialog.dll" status="changed" />
+      <file path="CustomFontDialog.dll.config" status="added" />
       <file path="ICSharpCode.SharpZipLib.dll" status="changed" />
       <file path="IrcDotNet.Common.dll" status="removed" />
       <file path="IrcDotNet.dll" status="changed" />
