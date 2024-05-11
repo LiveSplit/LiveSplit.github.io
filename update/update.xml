@@ -43,6 +43,7 @@
       <change>Fixed a bug with font sizes not being consistent before vs. after editing font settings for a layout.</change>
       <change>Improved the performance of the autocomplete dropdown when choosing a game name in the Splits Editor.</change>
       <change>Improved the performance of the races list in the right click menu for Racetime.gg and SpeedRunsLive.</change>
+      <change>The Speedrun.com games list is now cached, and is only reloaded when the Splits Editor is opened.</change>
       <change>For future updates, the update prompt will no longer appear in the background, in order to prevent some potential issues with LiveSplit hanging.</change>
       <change>When sharing to Excel, the auto filtering functionality was removed, because LiveSplit now uses an official version of Xlio.</change>
       <change>TLS 1.2 is now enforced for downloading the Auto Splitters XML from GitHub.</change>
