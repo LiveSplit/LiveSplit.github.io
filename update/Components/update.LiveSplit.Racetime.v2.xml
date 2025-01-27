@@ -3,6 +3,13 @@
     <update version="1.8.29">
         <files>
             <file path="Components/LiveSplit.Racetime.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.Racetime.dll" status="changed" />
             <file path="Components/runtimes/win-arm64/native/WebView2Loader.dll" status="added" />
             <file path="Components/runtimes/win-x64/native/WebView2Loader.dll" status="added" />
             <file path="Components/runtimes/win-x86/native/WebView2Loader.dll" status="added" />

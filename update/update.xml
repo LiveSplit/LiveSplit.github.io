@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.30">
+    <files>
+      <file path="Codaxy.Xlio.dll" status="changed" />
+      <file path="CustomFontDialog.dll" status="changed" />
+      <file path="IrcDotNet.dll" status="changed" />
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.Core.dll.config" status="changed" />
+      <file path="LiveSplit.exe" status="changed" />
+      <file path="LiveSplit.exe.config" status="changed" />
+      <file path="LiveSplit.Register.exe" status="changed" />
+      <file path="LiveSplit.Register.exe.config" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+      <file path="Microsoft.WindowsAPICodePack.Core.dll" status="added" />
+      <file path="Microsoft.WindowsAPICodePack.Shell.dll" status="changed" />
+      <file path="SharpDX.DirectInput.dll" status="changed" />
+      <file path="SharpDX.dll" status="changed" />
+      <file path="SpeedrunComSharp.dll" status="changed" />
+      <file path="System.Diagnostics.DiagnosticSource.dll" status="added" />
+      <file path="websocket-sharp.dll" status="added" />
+      <file path="WinFormsColor.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>LiveSplit now uses .NET Framework version 4.8.1.</change>
+      <change>The Splits Editor now allows editing milliseconds.</change>
+      <change>DPI awareness is now enabled. This allows LiveSplit to scale text elements correctly for users who set their display scale to anything but 100%.</change>
+      <change>In the Control menu, there is now an option to start a websocket server.</change>
+      <change>Mitigated an issue where part of the window turned black and did not redraw until the window was resized.</change>
+    </changelog>
+  </update>
   <update version="1.8.29">
     <files>
       <file path="Components/LiveSplit.ComparisonTime.dll" status="added" />

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>The comparison name text can now be overridden in the settings, and can be different when ahead vs. behind the comparison.</change>
+        </changelog>
+    </update>
     <update version="1.8.29">
         <files>
             <file path="Components/LiveSplit.Delta.dll" status="changed" />

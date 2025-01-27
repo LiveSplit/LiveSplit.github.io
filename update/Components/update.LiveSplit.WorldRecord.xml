@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.WorldRecord.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug where the current personal best was not considered a world record if a game allows milliseconds but a particular category only allows seconds.</change>
+            <change>Added a setting to display milliseconds.</change>
+        </changelog>
+    </update>
     <update version="1.8.29">
         <files>
             <file path="Components/LiveSplit.WorldRecord.dll" status="changed" />

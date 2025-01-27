@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.Counter.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
     <update version="1.8.29">
         <files>
             <file path="Components/LiveSplit.Counter.dll" status="changed" />

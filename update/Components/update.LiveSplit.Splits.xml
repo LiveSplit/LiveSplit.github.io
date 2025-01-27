@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.Splits.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added a setting to display milliseconds.</change>
+        </changelog>
+    </update>
     <update version="1.8.29">
         <files>
             <file path="Components/LiveSplit.Splits.dll" status="changed" />

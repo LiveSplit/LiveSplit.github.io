@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.10">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+            <file path="Components/x64/asr_capi.dll" status="changed" />
+            <file path="Components/x86/asr_capi.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Autosplitters may now set custom variables. These custom variables may be displayed by a component or saved to the splits file.</change>
+        </changelog>
+    </update>
     <update version="0.0.9">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
