@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.31">
+        <files>
+            <file path="Components/LiveSplit.DetailedTimer.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug with the segment times accuracy not loading from the layout.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.DetailedTimer.dll" status="changed" />

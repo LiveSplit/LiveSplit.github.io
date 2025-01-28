@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.31">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Added a getcustomvariablevalue command to the server.</change>
+    </changelog>
+  </update>
   <update version="1.8.30">
     <files>
       <file path="Codaxy.Xlio.dll" status="changed" />

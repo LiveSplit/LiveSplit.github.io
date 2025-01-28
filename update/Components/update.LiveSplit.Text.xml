@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.31">
+        <files>
+            <file path="Components/LiveSplit.Text.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added a setting to display the value of a custom variable from an Auto Splitting Runtime autosplitter.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.Text.dll" status="changed" />
