@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.32">
+        <files>
+            <file path="Components/LiveSplit.Delta.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug with a positive delta not showing a plus next to the delta time.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.Delta.dll" status="changed" />
