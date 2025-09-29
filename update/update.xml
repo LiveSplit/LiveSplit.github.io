@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-  <update version="1.8.34">
-    <files>
-      <file path="CustomFontDialog.dll" status="changed" />
-      <file path="LiveSplit.Core.dll" status="changed" />
-      <file path="LiveSplit.Register.exe" status="changed" />
-      <file path="LiveSplit.Register.exe.config" status="changed" />
-      <file path="LiveSplit.View.dll" status="changed" />
-      <file path="LiveSplit.exe" status="changed" />
-      <file path="LiveSplit.exe.config" status="changed" />
-      <file path="Microsoft.Bcl.AsyncInterfaces.dll" status="added" />
-      <file path="SpeedrunComSharp.dll" status="changed" />
-      <file path="System.IO.Pipelines.dll" status="added" />
-      <file path="System.Memory.dll" status="changed" />
-      <file path="System.Runtime.CompilerServices.Unsafe.dll" status="changed" />
-      <file path="System.Text.Encodings.Web.dll" status="added" />
-      <file path="System.Text.Json.dll" status="added" />
-      <file path="System.Threading.Tasks.Extensions.dll" status="added" />
-      <file path="System.ValueTuple.dll" status="added" />
-      <file path="UpdateManager.dll" status="changed" />
-      <file path="WinFormsColor.dll" status="changed" />
-    </files>
-    <changelog>
-      <change>Added a setting for DPI awareness, which is off by default.</change>
-      <change>Slightly improved the lag when the Splits Editor is first opened, due to the list of games being added to the Game dropdown.</change>
-      <change>Added Golf HCP as a comparison to choose from in the Choose Active Comparisons window in the Settings.</change>
-      <change>Removed the integration with Splits.io, which has shut down.</change>
-      <change>Added getattemptcount and getcompletedcount commands to the server.</change>
-      <change>Added a setting to automatically start a server on startup.</change>
-    </changelog>
-  </update>
   <update version="1.8.33">
     <files>
       <file path="LiveSplit.exe" status="changed" />
