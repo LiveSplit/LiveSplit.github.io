@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.Racetime.dll" status="changed" />
+            <file path="Components/runtimes/win-arm64/native/WebView2Loader.dll" status="added" />
+            <file path="Components/runtimes/win-x64/native/WebView2Loader.dll" status="added" />
+            <file path="Components/runtimes/win-x86/native/WebView2Loader.dll" status="added" />
+            <file path="Components/Microsoft.Web.WebView2.Core.dll" status="added" />
+            <file path="Components/Microsoft.Web.WebView2.WinForms.dll" status="added" />
+            <file path="Components/Microsoft.Web.WebView2.Wpf.dll" status="added" />
+            <file path="Components/Ookii.Dialogs.WinForms.dll" status="added" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+</updates>
