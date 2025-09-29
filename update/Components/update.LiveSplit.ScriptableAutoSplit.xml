@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.34">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now allow switching between processes with the same name but different casing, by making the string comparison case insensitive.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
