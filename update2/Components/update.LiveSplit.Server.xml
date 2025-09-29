@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+	<update version="1.8.19">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fix getdelta not working at the end of a run.</change>
+		</changelog>
+	</update>
+	<update version="1.8.17">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added methods to get the current time.</change>
+			<change>Multiple IP addresses are now listed if they exist.</change>
+		</changelog>
+	</update>
+	<update version="1.8.0">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.8.0.</change>
+		</changelog>
+	</update>
+	<update version="1.7.7">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.7.</change>
+		</changelog>
+	</update>
+	<update version="1.7.2">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.7.2.</change>
+		</changelog>
+	</update>
+	<update version="1.7">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added a command to get the current timer phase.</change>
+		</changelog>
+	</update>
+	<update version="1.6.3">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.6.3.</change>
+		</changelog>
+	</update>
+	<update version="1.6.1">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added a way to stop the server.</change>
+			<change>Added a command to change the name of a split.</change>
+			<change>Added a command to start or split.</change>
+		</changelog>
+	</update>
+	<update version="1.6">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>The "alwayspausegametime" command was added.</change>
+		</changelog>
+	</update>
+	<update version="1.2.0">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+			<file path="Components/Noesis.Javascript.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added a few more commands.</change>
+		</changelog>
+	</update>
+	<update version="1.1.0">
+		<files>
+			<file path="Components/LiveSplit.Server.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Now compatible with 1.5.</change>
+		</changelog>
+	</update>
+</updates>
