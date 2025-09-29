@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update version="1.8.34">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now allow switching between processes with the same name but different casing, by making the string comparison case insensitive.</change>
+        </changelog>
+    </update>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.28">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed an issue with timer events not always being unsubscribed.</change>
+        </changelog>
+    </update>
+    <update version="1.8.26">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug with the Uncheck All button only unchecking top-level settings.</change>
+        </changelog>
+    </update>
+    <update version="1.8.17">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed scripts not reloading when a file is renamed.</change>
+            <change>Added start, split, and reset timer event methods.</change>
+        </changelog>
+    </update>
+    <update version="1.8.0">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.8.0.</change>
+        </changelog>
+    </update>
+    <update version="1.7.7">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.7.</change>
+        </changelog>
+    </update>
+    <update version="1.7.5">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.5.</change>
+        </changelog>
+    </update>
+    <update version="1.7">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.</change>
+        </changelog>
+    </update>
+    <update version="1.6.9">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added settings capability. (Thanks @tduva_)</change>
+            <change>Some new advanced features are now supported in scripts.</change>
+            <change>Fixed various minor issues.</change>
+        </changelog>
+    </update>
+    <update version="1.6.3">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.3.</change>
+        </changelog>
+    </update>
+    <update version="1.6.1">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Changing a Script's Refresh Rate is now supported.</change>
+            <change>Game Time is now initialized even if the user starts the run manually.</change>
+        </changelog>
+    </update>
+    <update version="1.6">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Scripts now update at 60 Hz instead of 40 Hz.</change>
+            <change>Some new advanced features are now supported in scripts.</change>
+        </changelog>
+    </update>
+    <update version="1.1.2">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>ASL Scripts should now work again without crashing.</change>
+        </changelog>
+    </update>
+    <update version="1.1.1">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug that caused a crash.</change>
+        </changelog>
+    </update>
+    <update version="1.1.0">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.5.</change>
+        </changelog>
+    </update>
+</updates>

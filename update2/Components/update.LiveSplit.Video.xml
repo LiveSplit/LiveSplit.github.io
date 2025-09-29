@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update version="1.8.34">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Removed VLC branding when a video is not playing.</change>
+        </changelog>
+    </update>
+    <update version="1.8.30">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+        </changelog>
+    </update>
+    <update version="1.8.29">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed newer versions of VLC causing LiveSplit to crash when using the Video component.</change>
+            <change>Fixed a bug with height and width changes not being reflected sometimes.</change>
+        </changelog>
+    </update>
+    <update version="1.8.26">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Updated to only be compatible with VLC v3.0.</change>
+        </changelog>
+    </update>
+    <update version="1.8.0">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.8.0.</change>
+        </changelog>
+    </update>
+    <update version="1.7.7">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.7.7.</change>
+        </changelog>
+    </update>
+    <update version="1.7.5">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed an issue with opening the settings breaking the active video.</change>
+        </changelog>
+    </update>
+    <update version="1.7">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed an issue with the Video Component causing LiveSplit to crash on startup.</change>
+        </changelog>
+    </update>
+    <update version="1.6.3">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.6.3.</change>
+        </changelog>
+    </update>
+    <update version="1.6.1">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed issue with component not loading on startup of LiveSplit.</change>
+        </changelog>
+    </update>
+    <update version="1.6">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed error with wrong VLC version causing an unhandled exception.</change>
+        </changelog>
+    </update>
+    <update version="1.1.0">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Now compatible with 1.5.</change>
+        </changelog>
+    </update>
+    <update version="1.0.1">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed a bug where some characters in the file path caused the video to not play.</change>
+        </changelog>
+    </update>
+</updates>
