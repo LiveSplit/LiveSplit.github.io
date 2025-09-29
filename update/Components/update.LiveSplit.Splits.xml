@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.34">
+        <files>
+            <file path="Components/LiveSplit.Splits.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Added Custom Variable as a column type.</change>
+            <change>Columns now automatically expand to fit longer times.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.Splits.dll" status="changed" />

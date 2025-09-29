@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.34">
+        <files>
+            <file path="Components/LiveSplit.Video.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Removed VLC branding when a video is not playing.</change>
+        </changelog>
+    </update>
     <update version="1.8.30">
         <files>
             <file path="Components/LiveSplit.Video.dll" status="changed" />
