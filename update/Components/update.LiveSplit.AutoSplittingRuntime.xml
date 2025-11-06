@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="0.0.12">
+        <files>
+            <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Fixed an issue with autosplitter settings not working properly when activating an autosplitter in the Splits Editor.</change>
+        </changelog>
+    </update>
     <update version="0.0.11">
         <files>
             <file path="Components/LiveSplit.AutoSplittingRuntime.dll" status="changed" />

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+  <update version="1.8.36">
+    <files>
+      <file path="LiveSplit.Core.dll" status="changed" />
+      <file path="LiveSplit.View.dll" status="changed" />
+    </files>
+    <changelog>
+      <change>Updated version to 1.8.36.</change>
+    </changelog>
+  </update>
   <update version="1.8.35">
     <files>
       <file path="LiveSplit.Core.dll" status="changed" />
