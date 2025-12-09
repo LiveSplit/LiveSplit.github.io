@@ -11,7 +11,7 @@ var handleApiResponse = function() {
     );
 
     var linkHeader = xmlHttp.getResponseHeader("Link");
-    var nextUrlMatch = linkHeader.match(/<(.+)>; rel="next"/);
+    var nextUrlMatch = linkHeader.match(/<([^<]+)>; rel="next"/);
     if (nextUrlMatch) {
       xmlHttp = new XMLHttpRequest();
       xmlHttp.onreadystatechange = handleApiResponse;
