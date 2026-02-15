@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
-    <update version="1.8.29">
+    <update version="1.8.37">
         <files>
             <file path="Components/LiveSplit.Racetime.dll" status="changed" />
         </files>
         <changelog>
+            <change>Fix some issues with the OAuth implementation.</change>
         </changelog>
     </update>
     <update version="1.8.29">

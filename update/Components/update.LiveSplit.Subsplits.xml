@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.37">
+        <files>
+            <file path="Components/LiveSplit.Subsplits.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Columns are named with the comparison name by default, instead of the column number. This matches the behavior of the Splits component.</change>
+        </changelog>
+    </update>
     <update version="1.8.35">
         <files>
             <file path="Components/LiveSplit.Subsplits.dll" status="changed" />

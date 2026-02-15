@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update version="1.8.37">
+        <files>
+            <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
+        </files>
+        <changelog>
+            <change>Auto Splitters now have access to System.Text.Json.</change>
+        </changelog>
+    </update>
     <update version="1.8.34">
         <files>
             <file path="Components/LiveSplit.ScriptableAutoSplit.dll" status="changed" />
